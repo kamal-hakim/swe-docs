@@ -1,0 +1,6 @@
+[submodule "backend-arch/fastapi-template"]
+	path = backend-arch/fastapi-template
+	url = https://github.com/fastapi/full-stack-fastapi-template
+[submodule "backend-arch/fastapi-clean-example"]
+	path = backend-arch/fastapi-clean-example
+	url = https://github.com/ivan-borovets/fastapi-clean-example
